@@ -1,0 +1,12 @@
+node_modules
+build
+frontend
+test
+neardev
+*.env
+yarn.lock
+.parcel-cache/
+dist
+**/videos
+**/screenshots
+.idea
